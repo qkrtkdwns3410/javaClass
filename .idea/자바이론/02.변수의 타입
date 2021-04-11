@@ -1,0 +1,21 @@
+1.변수의 타입
+    변수 >> 하나의 값을 저장하기 위한 메모리 공간
+
+    int age =25; >> 정수타입
+    age =3.14; >>X에러
+    float이나 double 사용해야함
+    float age=3.14
+    2)저장 할 값의 타입과 일치하는 타입으로 변수를 선언
+        char ch ='가'; //char는 문자타입
+        double pi =3.14; //double은 실수타입
+
+2.값의 타입
+    1)문자 -char
+    2)숫자
+        (1)정수 -byte short int long
+        (2)실수 -float double
+    3)논리
+        boolean >>true false
+>>위 8개는 기본형이라고 합니다
+
+
